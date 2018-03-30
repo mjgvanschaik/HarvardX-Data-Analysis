@@ -1,0 +1,7 @@
+---
+title: "PH525.3x 3.3 Models for Variance Exercises"
+author: "Maarten van Schaik"
+date: "March 30, 2018"
+output: html_document
+---
+

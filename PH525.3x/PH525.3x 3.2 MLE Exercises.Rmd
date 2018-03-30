@@ -1,0 +1,7 @@
+---
+title: "PH525.3x 3.2 MLE Exercises"
+author: "Maarten van Schaik"
+date: "March 30, 2018"
+output: html_document
+---
+

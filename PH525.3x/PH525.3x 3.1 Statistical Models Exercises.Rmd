@@ -1,0 +1,7 @@
+---
+title: "PH525.3x 3.1 Statistical Model exercises"
+author: "Maarten van Schaik"
+date: "March 30, 2018"
+output: html_document
+---
+
